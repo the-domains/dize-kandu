@@ -1,0 +1,28 @@
+name: Dize Kandu
+favicon: null
+layout_spectrum: 0.34363603265956044
+typography_spectrum: 0.1525773094035685
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.05551318684592843
+  lightness: 0.4037258957978338
+  saturation: 0.13696949812583625
+  rhythmicContrast: 0.8354794755578041
+purpose: []
